@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-adcc-low-pass-filtering-mcc",
         "version": "1.0.3",
-        "displayName": "PIC18F47Q10 ADCC Low-pass Filter Conversion Configuration Example",
+        "displayName": "ADCC Low-pass Filter Conversion Configuration Example",
         "projectName": "pic18f47q10-cnano-adcc-low-pass-filtering-mcc",
         "shortDescription": "In this demo, the ADCC peripheral is used to read a value from an analog pin connected to a potentiometer a hundred times, the values passed through a low pass filter and an average is computed.",
         "ide": {
